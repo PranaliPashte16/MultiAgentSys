@@ -3,3 +3,4 @@ python-dotenv
 crewai
 groq
 sentence-transformers
+crewai[litellm]
